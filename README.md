@@ -1,4 +1,4 @@
-# yes-bank-machine-learning
+# Yes Bank Cost Prediction Analysis
 **Overview:**
 Welcome to the Yes Bank Stock Closing Price Prediction project repository! This project aims to predict the closing price of Yes Bank stock, considering the impact of the 2018 fraud case involving Rana Kapoor. We have developed machine learning models, including Ridge Regression, Random Forest, and XGBoost Regressor, to achieve this objective.
 
